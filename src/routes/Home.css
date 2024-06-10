@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+
+    height: 436px;
+    width: 550px;
+    margin-top: 90px;
+    margin-left: 90px;
+          
+}
+p1{
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(0, 234, 255);
+
+}
+.type2{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+.type{
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(0, 234, 255);
+
+}
+.textbox{
+    margin-top: 25px;
+    font-size: 20px;
+    color: white;
+   
+}
+.java1{
+    height: 70px;
+    width: 40px;
+    margin-left: 10px;
+    
+}
+.java2{
+    height: 47px;
+    width: 43px;
+    margin-left: 15px;
+}
+.java3{
+    height: 54px;
+    width: 98px;
+    
+}
+.java4{
+    height: 45px;
+    width: 40;
+    margin-left: 15px;
+}
+.java5{
+    height: 60px;
+    width: 75px;
+    margin-left: 0px;
+    
+}
+.java6{
+    height: 45px;
+    width: 40;
+    margin-left: 0px;
+}
+.stack{
+    margin-top: 40px;
+    margin-left: 0px;
+    flex-direction: column;
+}
+.button2{
+    height: 39px;
+    width: 100px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 20px;
+    font-weight: 600;
+    color: rgb(0, 234, 255);
+    background-color: navy;
+   
+
+}
+
+.box{
+    background-color:  black;  
+    height: 100%;
+}
+
+.main{
+    display: flex;
+   
+}
+.photo{
+    height: 250px;
+    width: 250px;
+    border-radius: 120px;
+    margin-top: 99px;
+    margin-left: 268px;
+    position: relative;
+    position: absolute;
+    
+}
+.op{
+    height: 200px;
+    width: 290px; 
+   margin-left: 500px;
+    
+}
+.expertise{
+    background-color: black;
+    min-width: 100%;
+    min-height: 100%;
+    
+    
+}
+.svg{
+
+    width: 280px;
+    height: 280px;
+    margin-left: 140px;
+    margin-top: 90px;
+
+    
+}
+.about{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+  
+ 
+  
+ 
+  
+ 
